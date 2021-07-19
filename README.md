@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jameschris854
+- 👋 Hi, I’m james
 - 👀 I’m interested in ...developing any web app
-- 🌱 I’m currently learning ...react.js
+- 🌱 I’m currently learning ...React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...jameschris854@gmail.com
 
