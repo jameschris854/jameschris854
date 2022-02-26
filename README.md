@@ -1,8 +1,4 @@
-- 👋 Hi, I’m james
-- 👀 I’m interested in ...developing any web app
-- 🌱 I’m currently learning ...React Native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...jameschris854@gmail.com
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameschris854&show_icons=true&theme=material-palenight&hide=contribs,prs)
 
 <!---
 jameschris854/jameschris854 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
